@@ -23,5 +23,11 @@
     <ClInclude Include="src\vector.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="src\blockdeque.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\memory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
